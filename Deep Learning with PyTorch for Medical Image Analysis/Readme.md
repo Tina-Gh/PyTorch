@@ -8,4 +8,5 @@
   <li>Section 4: Pytorch Basics</li>
   <li>Section 5: CNN and ANN with MNIST Dataset</li>
   <li>Section 6: Medical Imaging Introduction</li>
+  <li>Section 7: Data Formats in Medical Imaging</li>
 </ul>
