@@ -1,5 +1,7 @@
 <h2>Deep Learning with PyTorch for Medical Image Analysis</h2>
 
+<a href="https://www.udemy.com/course/deep-learning-with-pytorch-for-medical-image-analysis/" target="_blank">Link</a>
+
 <ul>
   <li>Section 2: Numpy Review</li>
   <li>Section 3: Machine Learning Theory Overview</li>  
