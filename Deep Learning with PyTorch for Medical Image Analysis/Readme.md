@@ -7,4 +7,5 @@
   <li>Section 3: Machine Learning Theory Overview</li>  
   <li>Section 4: Pytorch Basics</li>
   <li>Section 5: CNN and ANN with MNIST Dataset</li>
+  <li>Section 6: Medical Imaging Introduction</li>
 </ul>
