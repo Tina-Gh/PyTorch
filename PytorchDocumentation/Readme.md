@@ -10,7 +10,7 @@ source:
 https://pytorch.org/tutorials/beginner/basics/intro.html
 
 
-2. <b><i> PyTorch_Documentation_IntroductionToPyTorchYouTubeSeries(Introduction&etc).ipynb </b></i>
+2. <b><i> PyTorch_Documentation_IntroductionToPyTorchYouTubeSeries(IntroductionToPyTorch).ipynb </b></i>
 
 https://colab.research.google.com/drive/1jqfC7dpb6Bh7kicq51ja3GjpvFdmQplK?authuser=0#scrollTo=54xgPQcIE_3A
 
