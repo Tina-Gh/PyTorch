@@ -16,3 +16,26 @@ https://colab.research.google.com/drive/1jqfC7dpb6Bh7kicq51ja3GjpvFdmQplK?authus
 
 source: 
 https://pytorch.org/tutorials/beginner/introyt/introyt_index.html
+
+
+3. <b><i> PyTorch_Documentation_LearningPyTorchWithExamples.ipynb </b></i>
+
+upcomming...
+
+source:
+https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+
+4. <b><i> PyTorch_Documentation_LearningPyTorch_WhatIstorch.nnReally?.ipynb </b></i>
+
+upcomming...
+
+source:
+https://pytorch.org/tutorials/beginner/nn_tutorial.html
+
+5. <b><i> PyTorch_Documentation_LearningPyTorch_NLPFromScratch.ipynb </b></i>
+
+upcomming...
+
+source:
+https://pytorch.org/tutorials/intermediate/nlp_from_scratch_index.html
+
